@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=LED1 Old Footprint=AVAG-HLMP-3301-2 New Footprint=Type 5mm
+Change Component Footprint: Designator=LED2 Old Footprint=AVAG-HLMP-3301-2 New Footprint=Type 5mm
+Change Component Comment : Designator=LED1 Old Comment=HLMP-3301 New Comment=151051RS11000
+Change Component Comment : Designator=LED2 Old Comment=HLMP-3301 New Comment=151051RS11000
+Change component parameters: Designator = "LED1"; Footprint = "Type 5mm"; UniqueID = "\QSORDXYU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/151051RS11000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitting color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "Type 5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "151051RS11000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2"; Footprint = "Type 5mm"; UniqueID = "\AYUETSPY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/7448042001.pdfhttp://katalog.we-online.de/pbs/datasheet/151051RS11000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitting color"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "Type 5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "151051RS11000"; VariantName = "[No Variations]"
+Added Room: Name=Multivib_Sheet1
